@@ -24,5 +24,5 @@ Marcos resolveu abrir uma consultoria online em contabilidade e para iniciar ele
 ## Usados neste projeto
 
 <a href="https://viacep.com.br/exemplo/jquery/" target="_blank">para cep</a> <br>
-<a href="http://digitalbush.com/projects/masked-input-plugin/" target="_blank"> Maskaras </a>
+<a href="http://digitalbush.com/projects/masked-input-plugin/" target="_blank"> Maskaras </a> <br>
 <a href="https://1000hz.github.io/bootstrap-validator/" target="_blank"> Validação de campos </a>
