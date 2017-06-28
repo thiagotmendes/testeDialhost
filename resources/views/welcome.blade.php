@@ -177,7 +177,7 @@
     <script type="text/javascript">
     // normalmente coloco dentro do app.js
     jQuery(document).ready(function($) {
-      $(".data").mask("99/99/9999",{placeholder:"mm/dd/yyyy"});
+      $(".data").mask("99/99/9999",{placeholder:"dd/mm/yyyy"});
       $("#cep").mask('99999-999');
       $('.telefone').mask("(99) 99999-999?9").ready(function(event) {
         var target, phone, element;
