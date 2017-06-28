@@ -17,7 +17,7 @@ class EfetuaCadastro extends Controller
     $rules = array(
       'nome' => 'required',
       'email' => 'required',
-      'celular' => 'required',
+      'cel' => 'required',
       'cep'   => 'required'
     );
 
